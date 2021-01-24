@@ -1,2 +1,3 @@
 include ':app'
+include ':sugar-annotation'
 rootProject.name = "SugarAnnotation"

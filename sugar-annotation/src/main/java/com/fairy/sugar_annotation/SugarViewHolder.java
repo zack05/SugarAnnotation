@@ -1,4 +1,4 @@
-package com.fairy.sugarannotation;
+package com.fairy.sugar_annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
